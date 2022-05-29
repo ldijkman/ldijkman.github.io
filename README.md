@@ -6,6 +6,7 @@ Electra ESP8266 TFT Touch mDNS Wifi Relais<br>
 <br>
 <a href="https://easyeda.com/editor#id=10d6752bd1a049dda6aceadc29e5767f">https://easyeda.com/editor#id=10d6752bd1a049dda6aceadc29e5767f</a><br>
 <br>
+<a href="https://oshwlab.com/l.dijkman/Electra">https://oshwlab.com/l.dijkman/Electra</a><br>
 <br>
 <img src="https://raw.githubusercontent.com/ldijkman/Electra/main/touch_electra.gif"><br>
 <br>
