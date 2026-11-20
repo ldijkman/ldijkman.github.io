@@ -1,10 +1,10 @@
 # Dirk Lubèrth Dijkman: home automation projects
 
-> Open-source home automation projects by Dirk Lubèrth Dijkman, a maker from the Netherlands. The main project is Tasmota Scan & Control, a free Android app for Tasmota (and, new, Shelly) Wi-Fi switches. Made together with Claude Opus 5.5.
+> Open-source home automation projects by Dirk Lubèrth Dijkman, a maker from the Netherlands. The main project is Tasmota Scan & Control, a free Android app for Tasmota and Shelly Wi-Fi switches. Made together with Claude Opus 5.5.
 
 ## Tasmota Scan & Control (main project)
 
-Free, open-source (GPL-3.0) Android app to find, switch and schedule Tasmota Wi-Fi switches, plugs and lamps on your own network. No cloud, no account, no ads, no device limit. Timers run in the switch itself, with sunrise and sunset. Groups, scenes, widgets, wall panel mode, remote control with Tailscale VPN. New and untested on real hardware: basic Shelly support (scan, on/off, rename, auto-off, add a new Shelly).
+Free, open-source (GPL-3.0) Android app to find, switch and schedule Tasmota and Shelly Wi-Fi switches, plugs and lamps on your own network. No cloud, no account, no ads, no device limit. Timers run in the switch itself, with sunrise and sunset. Groups, scenes, widgets, wall panel mode, remote control with Tailscale VPN. New and untested on real hardware: basic Shelly support (scan, on/off, rename, auto-off, add a new Shelly).
 
 - [Full llms.txt for the app](https://ldijkman.github.io/Tasmota-android-test/llms.txt): all features, facts and video links
 - [Website](https://ldijkman.github.io/Tasmota-android-test/)
